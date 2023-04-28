@@ -41,5 +41,10 @@ testing rate on a pie chart
 	
 5. Create an Oozie workflow actions from to run the HDFS shell script and execute the Hive queries
 
+## Power BI dashboard
+
+https://app.powerbi.com/view?r=eyJrIjoiYjFiMDNkYjYtZTRkZC00MWVmLWIyOWYtNWY1M2U1MGQzMTcwIiwidCI6ImM0ZjhmOTIyLWIzZWYtNGI1OS04Y2ExLTkzZjdhYjc2N2NjZSJ9
+
+
 
 
